@@ -1,4 +1,4 @@
-#! /home/rafael/development/florence/venv/bin/python3
+#! ../venv/bin/python3
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
